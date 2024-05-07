@@ -1,5 +1,4 @@
 # **Weather CLI**
-================
 
 A simple command-line interface to get the current weather for a given city or postal code.
 
