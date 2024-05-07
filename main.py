@@ -2,7 +2,7 @@ import argparse
 import requests
 
 # Set API key from OpenWeatherMap
-API_KEY = "YOUR_OPENWEATHER_""
+API_KEY = "YOUR_OPENWEATHER_"
 
 # Set base URL for OpenWeatherMap API
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
