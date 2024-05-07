@@ -6,7 +6,7 @@ A simple command-line interface to get the current weather for a given city or p
 ## **Usage**
 
 ```
-python weather.py <city> [-f | -c]
+python main.py <city> [-f | -c]
 ```
 
 ## **Options**
